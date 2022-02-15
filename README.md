@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:  
 
 * Galih Sansabila, [LinkedIn](https://www.linkedin.com/in/galihsansabila/).
+* Joni Copo, [Linkedin](https://www.linkedin.com/in/jonicopo).
